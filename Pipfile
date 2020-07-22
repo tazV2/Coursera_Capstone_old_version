@@ -7,6 +7,9 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 jupyter = "*"
+scipy = "*"
+geopy = "*"
+folium = "*"
 
 [dev-packages]
 
