@@ -10,6 +10,8 @@ jupyter = "*"
 scipy = "*"
 geopy = "*"
 folium = "*"
+sklearn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
