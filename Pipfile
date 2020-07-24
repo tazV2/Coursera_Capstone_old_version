@@ -15,6 +15,7 @@ matplotlib = "*"
 beautifulsoup4 = "*"
 install = "*"
 selenium = "*"
+geocoder = "*"
 
 [dev-packages]
 
