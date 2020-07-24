@@ -12,6 +12,9 @@ geopy = "*"
 folium = "*"
 sklearn = "*"
 matplotlib = "*"
+beautifulsoup4 = "*"
+install = "*"
+selenium = "*"
 
 [dev-packages]
 
